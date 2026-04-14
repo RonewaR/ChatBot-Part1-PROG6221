@@ -17,3 +17,9 @@ Open the project in Visual Studio and run the program.
 
 ## Author
 Ronewa Ramphabana
+## CI Workflow
+
+The project uses GitHub Actions for Continuous Integration.  
+Below is a successful workflow run:
+
+![CI Workflow Screenshot](ci-screenshot.png)
