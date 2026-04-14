@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Improved code formatting for readability
 public class Chatbot
 {
     private string userName;
